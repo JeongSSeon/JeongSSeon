@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeongSSeon
-- 👀 I’m interested in NLP & R programming
+- 👀 I’m interested in NLP & R, Python programming
 - 🌱 I’m currently learning statistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact: js_arirang0304@naver.com
